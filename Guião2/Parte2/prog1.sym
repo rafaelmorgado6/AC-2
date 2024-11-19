@@ -1,0 +1,26 @@
+GAS LISTING prog1.s 			page 1
+
+
+DEFINED SYMBOLS
+             prog1.s:1      *ABS*:000000000000000b READ_CORE_TIMER
+             prog1.s:2      *ABS*:000000000000000c RESET_CORE_TIMER
+             prog1.s:3      *ABS*:0000000000000003 PUT_CHAR
+             prog1.s:4      *ABS*:0000000000000006 PRINT_INT
+             prog1.s:5      *ABS*:0000000000000008 PRINT_STRING
+             prog1.s:6      *ABS*:0000000000000001 inkey
+             prog1.s:8      .data:0000000000000000 str
+             prog1.s:12     .text:0000000000000000 main
+             prog1.s:27     .text:000000000000002c while1
+             prog1.s:33     .text:0000000000000038 if1
+             prog1.s:37     .text:000000000000004c if2
+             prog1.s:60     .text:00000000000000c0 endif1
+             prog1.s:42     .text:0000000000000060 if3
+             prog1.s:49     .text:000000000000007c if4
+             prog1.s:51     .text:0000000000000088 if5
+             prog1.s:122    .text:0000000000000184 delay
+             prog1.s:69     .text:00000000000000e4 catorze
+             prog1.s:73     .text:00000000000000fc islide
+             prog1.s:125    .text:000000000000018c while2
+             prog1.s:137    .text:00000000000001b8 endwhile2
+
+NO UNDEFINED SYMBOLS

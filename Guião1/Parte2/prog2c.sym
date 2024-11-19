@@ -1,0 +1,19 @@
+GAS LISTING prog2c.s 			page 1
+
+
+DEFINED SYMBOLS
+            prog2c.s:23     *ABS*:0000000000000008 printStr
+            prog2c.s:24     *ABS*:0000000000000007 printInt10
+            prog2c.s:25     *ABS*:0000000000000006 printInt
+            prog2c.s:26     *ABS*:0000000000000004 readInt
+            prog2c.s:27     .data:0000000000000000 str1
+            prog2c.s:28     .data:000000000000002a str2
+            prog2c.s:29     .data:0000000000000047 str3
+            prog2c.s:30     .data:000000000000005a str4
+            prog2c.s:31     .data:000000000000006d str5
+            prog2c.s:32     .data:000000000000008c str6
+            prog2c.s:35     .text:0000000000000000 main
+            prog2c.s:36     .text:0000000000000000 while
+            prog2c.s:93     .text:00000000000000c8 endwhile
+
+NO UNDEFINED SYMBOLS

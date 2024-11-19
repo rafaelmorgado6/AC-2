@@ -1,0 +1,15 @@
+GAS LISTING prog2.s 			page 1
+
+
+DEFINED SYMBOLS
+             prog2.s:1      *ABS*:000000000000000b READ_CORE_TIMER
+             prog2.s:2      *ABS*:000000000000000c RESET_CORE_TIMER
+             prog2.s:3      *ABS*:0000000000000003 PUT_CHAR
+             prog2.s:4      *ABS*:0000000000000006 PRINT_INT
+             prog2.s:9      .text:0000000000000000 main
+             prog2.s:16     .text:0000000000000010 while1
+             prog2.s:48     .text:000000000000005c delay
+             prog2.s:51     .text:0000000000000064 while2
+             prog2.s:63     .text:0000000000000090 endwhile2
+
+NO UNDEFINED SYMBOLS

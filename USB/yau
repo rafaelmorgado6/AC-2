@@ -1,0 +1,5 @@
+sudo su
+cd /
+cd dev
+chown rafa ttyUSB0
+exit
